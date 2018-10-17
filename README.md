@@ -1,7 +1,7 @@
 # vscode-mario
 Let Mario run across your title bar while you are programming.
 
-[![Alt text](https://youtu.be/Skckr9Q3ZVs)](https://youtu.be/Skckr9Q3ZVs)
+[![Alt text](https://www.youtube.com/watch?v=Skckr9Q3ZVs)](https://www.youtube.com/watch?v=Skckr9Q3ZVs)
 
 ## Instructions
 
