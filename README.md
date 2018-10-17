@@ -1,5 +1,5 @@
 # vscode-mario
-Let Mario run across your title bar while you are programming.
+Let Mario run across the full length of your title bar while you're programming.
 
 ![Alt text](VSCodeMario.gif)
 
