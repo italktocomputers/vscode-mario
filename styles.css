@@ -1,0 +1,30 @@
+@keyframes example {
+  from {background-position-x: left}
+  to {background-position-x: right}
+}
+
+#workbench\.parts\.titlebar {
+  padding: 0% !important;
+}
+
+.window-title {
+  /*
+  Enable this if you want to see the title in the title bar.
+  position:absolute !important;
+  */
+  display: none !important;
+}
+
+.menubar {
+  background-image: url("/location/to/mario.gif") !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  display: block !important;
+  animation-name: example !important;
+  animation-duration: 20s !important;
+  animation-iteration-count: infinite !important;
+  animation-timing-function: linear !important;
+  width: 100% !important;
+  position: absolute !important;
+  -webkit-app-region: drag !important;
+}
