@@ -7,16 +7,8 @@
   padding: 0% !important;
 }
 
-.window-title {
-  /*
-  Enable this if you want to see the title in the title bar.
-  position:absolute !important;
-  */
-  display: none !important;
-}
-
-.menubar {
-  background-image: url("/location/to/mario.gif") !important;
+#workbench\.parts\.statusbar {
+  background-image: url("/Users/andrewschools/Desktop/mario.gif") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   display: block !important;
