@@ -8,7 +8,7 @@
 }
 
 #workbench\.parts\.statusbar {
-  background-image: url("/Users/andrewschools/Desktop/mario.gif") !important;
+  background-image: url("/path/to/mario.gif") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   display: block !important;
