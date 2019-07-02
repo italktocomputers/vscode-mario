@@ -1,7 +1,7 @@
 # vscode-mario
-Let Mario run across the full length of your title bar while you're programming.
+Let Mario run across the full length of your status bar while you're programming.
 
-![Alt text](VSCodeMario.gif)
+![Alt text](MarioCode.gif)
 
 Better example on Youtube: https://www.youtube.com/watch?v=Skckr9Q3ZVs
 
@@ -13,4 +13,4 @@ Better example on Youtube: https://www.youtube.com/watch?v=Skckr9Q3ZVs
 - Follow the Custom CSS and JS Loader extension instructions on how to point to your custom stylesheet.  
 - Now restart VSCode.
 
-That should be it.  If you notice any issues, let me know. 
+That should be it.
