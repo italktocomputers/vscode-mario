@@ -3,7 +3,7 @@ Let Mario run across the full length of your status bar while you're programming
 
 ![Alt text](MarioCode.gif)
 
-Better example on Youtube: https://www.youtube.com/watch?v=Skckr9Q3ZVs
+Better example on Youtube: https://youtu.be/cmXhmkCxBr4
 
 ## Instructions
 
